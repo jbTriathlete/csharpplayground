@@ -1,0 +1,8 @@
+C:\Users\jbaker\Documents\Visual Studio 2013\Projects\csharpplayground\csharpplayground\obj\Debug\csharpplayground.Form1.resources
+C:\Users\jbaker\Documents\Visual Studio 2013\Projects\csharpplayground\csharpplayground\obj\Debug\csharpplayground.Properties.Resources.resources
+C:\Users\jbaker\Documents\Visual Studio 2013\Projects\csharpplayground\csharpplayground\obj\Debug\csharpplayground.csproj.GenerateResource.Cache
+C:\Users\jbaker\Documents\Visual Studio 2013\Projects\csharpplayground\csharpplayground\bin\Debug\csharpplayground.exe.config
+C:\Users\jbaker\Documents\Visual Studio 2013\Projects\csharpplayground\csharpplayground\bin\Debug\csharpplayground.exe
+C:\Users\jbaker\Documents\Visual Studio 2013\Projects\csharpplayground\csharpplayground\bin\Debug\csharpplayground.pdb
+C:\Users\jbaker\Documents\Visual Studio 2013\Projects\csharpplayground\csharpplayground\obj\Debug\csharpplayground.exe
+C:\Users\jbaker\Documents\Visual Studio 2013\Projects\csharpplayground\csharpplayground\obj\Debug\csharpplayground.pdb
